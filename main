@@ -1,0 +1,21 @@
+https://raw.githubusercontent.com/danielmiessler/SecLists/master/Passwords/Common-Credentials/four-digit-pin-codes-sorted-by-frequency-withcount.csv
+**THE MOST POPULAR PIN IS 1548**
+if you want this to work you need a proxy checker. feel free to use a free one
+make a .py and paste this on.
+
+
+"create a html format that way you can make a private extention and attatch it to ur browser and keep track."
+
+import random
+
+print(random.randint(0,9))
+import random
+
+print(random.randint(0,9))
+import random
+
+print(random.randint(0,9))
+import random
+
+print(random.randint(0,9))
+repeat.replay
